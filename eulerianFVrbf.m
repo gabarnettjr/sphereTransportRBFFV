@@ -1,6 +1,6 @@
 clc,clear
 
-n = 6;                      %number of bifurcations of icosahedral triangle
+n = 4;                      %number of bifurcations of icosahedral triangle
 k = 1/10/2^(n-2);           %delta t
 T = 6;                      %final time
 t = 0 : k : T;              %vector of time values
